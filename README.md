@@ -11,3 +11,8 @@ The app uses Node's built-in HTTPS package to send GET and POST requests to the 
 - Express.js
 - Mailchimp Marketing API
 - Bootstrap
+
+## Next Steps
+- Update styles 
+- Add more error handling and validation on the sign-up form
+- Deploy 
