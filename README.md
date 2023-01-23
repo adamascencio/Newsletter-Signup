@@ -13,6 +13,9 @@ The app uses Node's built-in HTTPS package to send GET and POST requests to the 
 - Bootstrap
 
 ## Next Steps
+- Deploy ✅
 - Update styles 
 - Add more error handling and validation on the sign-up form
-- Deploy 
+
+## Getting Started
+[Click to use the app](https://newsletter-signup-app.azurewebsites.net/)
